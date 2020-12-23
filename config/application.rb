@@ -1,8 +1,5 @@
 require_relative 'boot'
 
-
-#adfa;dsjf ;dsa
-
 require "rails"
 # Pick the frameworks you want:
 require "active_model/railtie"
