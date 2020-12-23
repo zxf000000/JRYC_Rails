@@ -2,7 +2,6 @@ require_relative 'boot'
 
 
 #adfa;dsjf ;dsa
-#adfasd adsf ads
 
 require "rails"
 # Pick the frameworks you want:
